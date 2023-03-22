@@ -1,0 +1,11 @@
+1. The basic theory (what is testing, breg ports, documentation, types, methods, testing directions, etc.) SDLC, STLC.
+2. What is a client-server architecture.
+3. HTTP methods of requests for the server.
+4. The answer codes http server.
+5. HTTP structures of requests and answers.
+6. What is JSON, XML. Their structure.
+7. Testing API through Postman (JS, Api Autotics).
+8. Removing and reading logs from an external server.
+9. SNIFING HTTP Web traffic via Charles and Fiddler.
+10. Dev Tools web browsers (Google Chrome, Firefox).
+11. VPN. (How it works, why is it necessary, how to use, tool options)
