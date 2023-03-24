@@ -8,4 +8,23 @@
 8. Removing and reading logs from an external server.
 9. SNIFING HTTP Web traffic via Charles and Fiddler.
 10. Dev Tools web browsers (Google Chrome, Firefox).
+<<<<<<< HEAD
+11. VPN. (How it works, why is it necessary, how to use, tool options)12. Mobile testing.
+13. A feature of iOS, Android, guidels.
+14. Assembly of iOS applications on Xcode. (Who does not have a MAC computer, just look)
+15. Assembly of Android on Android Studio.
+16. Adb (Office of Android devices).
+17. Settings of proxy and VPN on iOS and Android.
+18. Interception (sniffing) of mobile traffic through Charles and Fiddler on iOS and Android.
+19. Command string (Terminal) Linux (copying, creating, viewing, moving files on servers without a graphic interface)
+20. Fundamentals of Bash scripting, automation of routine tasks on the server.
+21. Access to remote servers.
+22. Fundamentals of SQL (Create, Delete, Drop, Insert Into, Select, from, Were, Join).
+23. Database Postgres (installation, configuration and use).
+24. Non -Neolying database Redis (installation, configuration and use).
+25. Stress testing in JMETER.
+26. SCRUM development methodology.
+27. Python. (Study of the foundations. Creation of a client of the server application)
+=======
 11. VPN. (How it works, why is it necessary, how to use, tool options)
+>>>>>>> a0ada772ccca70055559766c7173b4aef19f8e8e
